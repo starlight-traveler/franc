@@ -1,3 +1,7 @@
 [submodule "franc-master-control"]
 	path = franc-master-control
-	url = git@github.com:starlight-traveler/franc-master-control.git
+	url = git@github.com:starlight-traveler/franc-master-control.gitrm -rf .git/modules/franc-interconnect-control
+
+[submodule "franc-interconnect-control"]
+	path = franc-interconnect-control
+	url = git@github.com:starlight-traveler/franc-interconnect-control.git
