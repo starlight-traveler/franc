@@ -1,0 +1,3 @@
+[submodule "franc-master-control"]
+	path = franc-master-control
+	url = git@github.com:starlight-traveler/franc-master-control.git
