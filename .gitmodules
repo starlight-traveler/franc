@@ -5,3 +5,9 @@
 [submodule "franc-interconnect-control"]
 	path = franc-interconnect-control
 	url = git@github.com:starlight-traveler/franc-interconnect-control.git
+[submodule "franc-ground-control/lib/quill"]
+	path = franc-ground-control/lib/quill
+	url = https://github.com/odygrd/quill
+[submodule "franc-ground-control/lib/imgui"]
+	path = franc-ground-control/lib/imgui
+	url = https://github.com/ocornut/imgui
